@@ -1,6 +1,2 @@
-# hello-world
-Hello Github. It's me.
-
-
 # What You Can Do With GitHub
-Have you ever experienced like .......
+Have you ever experienced like creating each version of files; "test.txt", "test_with_id.txt", test_with_names.txt"..."
